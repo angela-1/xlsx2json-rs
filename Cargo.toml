@@ -7,6 +7,7 @@ license = "Apache-2.0"
 repository = "https://github.com/angela-1/xlsx2json-rs"
 keywords = ["xlsx", "json", "serialization"]
 readme = "README.md"
+categories = ["command-line-utilities"]
 edition = "2018"
 
 [dependencies]
