@@ -4,6 +4,7 @@ version = "0.0.1"
 authors = ["Angela-1 <ruoshui_engr@163.com>"]
 description = "A command line tool for parse xlsx to json file."
 license = "Apache-2.0"
+homepage = "https://github.com/angela-1/xlsx2json-rs"
 repository = "https://github.com/angela-1/xlsx2json-rs"
 keywords = ["xlsx", "json", "serialization"]
 readme = "README.md"
@@ -11,6 +12,6 @@ categories = ["command-line-utilities"]
 edition = "2018"
 
 [dependencies]
-calamine = "0.15.3"
-serde_json = "1.0.37"
-clap = "2.32.0"
+calamine = "0.16.1"
+serde_json = "1.0.52"
+clap = "2.33.0"
